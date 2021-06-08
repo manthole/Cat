@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Chat</string>
+
+    <!-- Page d'acceuil -->
+    <string name="home_page_title">A découvrir</string>
+    <string name="home_page_last_cat_section">Nouveau Chat</string>
+
+    <!-- Page de Collection -->
+    <string name="Collection_page_title">Ma Collection</string>
+
+    <!-- Chat item-->
+    <string name="item_cat_name">Nom du chat</string>
+    <string name="item_cat_description">Description du chat</string>
+
+    <!-- Page d'ajout de chats -->
+    <string name="ajout_page_title">Ajout d\'un chat</string>
+    <string name="add_cat_page_upload_button">Charger Image</string>
+    <string name="add_cat_page_name_input">@string/item_cat_name</string>
+    <string name="add_cat_page_description">@string/item_cat_description</string>
+
+    <!-- Page d'ajout de chats /spécification yeux-->
+    <string-array name="add_cat_page_eyes_input">
+        <item>Yeux : Noir</item>
+        <item>Yeux : Bleu</item>
+        <item>Yeux : Vert</item>
+    </string-array>
+
+    <!-- Page d'ajout de chats /spécification géographique-->
+    <string-array name="add_cat_page_localisation_input">
+        <item>Localisation : Europe</item>
+        <item>Localisation : Asie</item>
+        <item>Localisation : Afrique</item>
+        <item>Localisation : Amérique</item>
+    </string-array>
+
+    <!-- Page d'ajout de chats /confirmer boutton-->
+    <string name="add_cat_page_confirm_button">Confirmer</string>
+
+    <!-- Fenêtre Popup de détail-->
+    <string name="popup_cat_name">Nom du chat</string>
+    <string name="popup_description_title">Description</string>
+    <string name="popup_cat_description_subtitle">Petite Description</string>
+    <string name="popup_cat_eyes_title">Yeux</string>
+    <string name="popup_cat_eyes_subtitle">Noir</string>
+    <string name="popup_cat_localisation_title">Localisation</string>
+    <string name="popup_cat_localisation_subtitle">Asie</string>
+
+
+</resources>

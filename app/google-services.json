@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450551898372",
+    "project_id": "chat-6fee1",
+    "storage_bucket": "chat-6fee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450551898372:android:8c4583b3bd0da0f47b3051",
+        "android_client_info": {
+          "package_name": "fr.anthony.cat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450551898372-2t2mmofhi2t5ipv801rb4pr7gqatsnrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwWlkOJd3fvz8CnfOmECIr5g1OMgmIE1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450551898372-2t2mmofhi2t5ipv801rb4pr7gqatsnrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
